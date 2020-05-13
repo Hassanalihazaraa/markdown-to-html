@@ -13,7 +13,8 @@
 | Gender  	|  Male 	    |
 | Favorite colour 	| Green  	|
 | Favorite Food  	| Tradional soup 	|
-| Pinneapple on pizza: [] Yes/ [X] No
+| Pinneapple on pizza: | [x] No please   |  
+                                      
 
 
 ##### Hobbies
