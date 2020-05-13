@@ -8,13 +8,13 @@
 
 
 |||
-|---        |---            |
-|Birthday   |  06/11/1995             |
-| Gender  	|  Male 	    |
-| Favorite colour 	| Green  	|
-| Favorite Food  	| Tradional soup 	|
-| Pinneapple on pizza: | [x] No please   |  
-                                      
+|---        |---            
+|Birthday   |  06/11/1995             
+| Gender  	|  Male 	    
+| Favorite colour 	| Green  	
+| Favorite Food  	| Tradional soup 	
+| Pinneapple on pizza: | No please &#9745;
+
 
 
 ##### Hobbies
